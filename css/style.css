@@ -1,0 +1,38 @@
+.heading {
+    background-color: aqua;
+    font: bolder;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.list {
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    font-size: large;
+
+}
+
+.pancake{
+    color: red;
+    font-size: 50px;
+}
+
+.vanillacupcake{
+    color: green;
+    font-size: 50px;
+}
+
+.waffles{
+    color: blue;
+    font-size: 50px;
+}
+
+.img{
+    height: fit-content ;
+    width: auto;
+    align-items: center;
+    border: 100cap;
+    box-sizing: border-box;
+}
